@@ -12,9 +12,7 @@
 
 * **Takeaway.com**
 
-```
-I had a bad experience in this program. I've written about it in my blog
-```
+```I had a bad experience in this program. I've written about it in my blog```
 
 [Bypass 2FA like a Boss](https://infosecwriteups.com/bypass-2fa-like-a-boss-378787707ba)
 
